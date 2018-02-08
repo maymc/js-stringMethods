@@ -79,6 +79,8 @@ console.log(smallKine);
 
 var bandName = "the beatles";
 
+var bigBand = bandName.toUpperCase();
+console.log(bigBand);
 
 
 /*The split() method converts a string into an array, by separating the string into substrings.*/
