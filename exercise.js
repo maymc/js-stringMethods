@@ -73,7 +73,6 @@ var smallKine = bigTime.toLowerCase();
 console.log(smallKine);
 
 
-
 /*The toUpperCase() method converts the characters in a string to upper case.*/
 
 /*7. Declare a variable named `bigBand` that will convert the string below to all upper case. Console.log your result.*/
