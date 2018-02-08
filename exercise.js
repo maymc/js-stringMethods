@@ -59,6 +59,8 @@ console.log(scissorHand);
 
 var grasshopper = "In order to taste my cup of water you must first fill your cup.";
 
+var theSifu = grasshopper.replace("fill", "empty");
+console.log(theSifu);
 
 
 /*The toLowerCase() method converts the characters in a string to lower case.*/
@@ -66,6 +68,9 @@ var grasshopper = "In order to taste my cup of water you must first fill your cu
 /*6. Declare a variable named `smallKine` that will convert the string below to all lower case. Console.log your result.*/
 
 var bigTime = "BRUuHHHH, I AM DA GreaTest!";
+
+var smallKine = bigTime.toLowerCase();
+console.log(smallKine);
 
 
 
